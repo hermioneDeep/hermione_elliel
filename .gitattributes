@@ -1,0 +1,15 @@
+model/* filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_autobackups filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_decoder_dst.npy filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_preview_SAEHD.jpg filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_history filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_inter.npy filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_src_dst_opt.npy filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_encoder.npy filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_decoder_src.npy filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_preview_SAEHD[[:space:]]masked.jpg filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_summary.txt filter=lfs diff=lfs merge=lfs -text
+model/SAEHD_default_options.dat filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_code_discriminator.npy filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_data.dat filter=lfs diff=lfs merge=lfs -text
+model/model_SAEHD_D_code_opt.npy filter=lfs diff=lfs merge=lfs -text
